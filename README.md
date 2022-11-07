@@ -15,7 +15,7 @@ This maps a more close inspection of each of the attention heads.
 ###TURL attention maps
 TURL generates attention maps from the header tokens and from the body cells separatly. 
 [Token attention maps](https://anetakoleva.github.io/attention_analysis_TaLMs/turl_1_token_model_view.html) provide a view of the attention from the header tokens to all of the tokens in the table.
-[Token head view](turl_1_tok_head_view.html) - can be used for a close inspection of each of the attention heads
+[Token head view](https://anetakoleva.github.io/attention_analysis_TaLMs/turl_1_tok_head_view.html) - can be used for a close inspection of each of the attention heads
 
 
 The entity attention maps we used in our analysis paper can be accessed here.
